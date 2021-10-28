@@ -2,9 +2,9 @@
   "name": "login",
   "version": "1.0.0",
   "description": "Nice design of a responsive restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.",
-  "main": "app.js",
+  "main": "login.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node login.js"
   },
   "author": "",
   "license": "ISC",
