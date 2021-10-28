@@ -1,0 +1,17 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Nice design of a responsive restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "github:mysqljs/mysql"
+  },
+  "devDependencies": {}
+}
