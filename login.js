@@ -7,10 +7,10 @@ const app = express();
 app.use("/assets",express.static("assets"));
 
 const connection = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    password: "password",
-    database: "nodejs"
+    host: "us-cdbr-east-04.cleardb.com",
+    user: "bf7b68f38cb15e",
+    password: "34f7daea",
+    database: "heroku_a14bcf750cb392b"
 });
 
 // app.use(express.urlencoded({ extended: true }))
